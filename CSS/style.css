@@ -1,0 +1,116 @@
+MENU NAVIGATION*/
+
+div#content div h1, p nav.menu-nav{
+	margin: 35px;
+}
+
+nav.menu-nav ul li.boutton{
+	list-style-type: none;
+	display: inline-block;
+}
+
+nav.menu-nav ul li.boutton a{
+	color: white;
+	background-color: #86D8FE;
+	text-decoration: none;
+	padding: 10px;
+}
+
+nav.menu-nav ul li.boutton:hover a{
+	color: #86D8FE;
+	background-color: white;
+	transition: 0.3s all;
+}
+
+/*block descriptif*/
+div#content div.annonce{
+	background-color: #86D8FE;
+	width: 100%;
+	text-align: center;
+}
+
+div#content{
+	background-color: white;
+}
+
+div#content div{
+	display:inline-block;
+	width: 48%;
+	margin: 8px;
+	font-size: 130%;
+	font-family: 'Pacifico', cursive
+}
+
+div#content div.leftbox{
+	vertical-align: top;
+}
+
+div#content div h1, p{
+	margin: 35px;
+}
+
+div#content div.rightbox{
+vertical-align: top;
+}
+
+
+body{
+	font-family: verdana;
+	font-size: 14px;
+	background-color: white;
+}
+
+header{
+	background-color: #86D8FE;
+	font-family: verdana
+	height: 150px;
+	top: 0px;
+}
+
+#entete{
+width: 950px;
+margin: auto;
+}
+
+#entete h1{
+	text-align: center;
+	margin: 0px;
+	padding: 20px;
+	font-family: 'Pacifico', cursive;
+	background-image: 100px
+}
+
+#entete h2{
+	text-align: center;
+	margin: 0px;
+	padding: 20px;
+	font-family: 'Pacifico', cursive;
+}
+
+footer{
+	background-color: #86D8FE;
+	text-align: right;
+}
+
+}
+/*p.welcome{
+	color: #6EA4FE;	
+}
+
+p.description{
+	color: blue;
+		font-weight: bold;
+}
+
+body{
+
+}	
+
+h1{
+	font-size: 150px;
+	padding: 15px;
+}
+
+a{
+	margin-left: 85%;
+}
